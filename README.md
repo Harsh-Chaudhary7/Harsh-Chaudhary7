@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello there, This is Harsh Chaudhary</h1>
+<h1 align="center">Hello there, This is Harsh Chaudhary 😄</h1>
 <h3 align="center">Computer Science & Engineering undergrad from GL Bajaj Institute of Technology and Management | Web development enthusiast | Interested in           Coding,Web development and designing</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ARUNBALACHOCKALINGAM&label=Profile%20views&color=0e75b6&style=flat" alt="Harsh Chaudhary" /> </p>
