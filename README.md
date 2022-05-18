@@ -36,10 +36,3 @@
    <a href="https://code.visualstudio.com/"><img src="https://github.com/ARUNBALACHOCKALINGAM/ARUNBALACHOCKALINGAM/blob/main/Vscode.PNG" width=40></a>
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-Chaudhary7&layout=compact)](https://github.com/Harsh-Chaudhary7/github-readme-stats)
-
-
-![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harsh-Chaudhary7&show_icons=true&theme=dracula)
-
-
